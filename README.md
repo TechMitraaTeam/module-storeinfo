@@ -10,22 +10,6 @@ The store owners may want to add the other store's /branches details on their si
 - Run command: <b>php bin/magento setup:static-content:deploy</b>
 - Now flush cache: <b>php bin/magento cache:flush</b>
 
-<b>Composer Installation</b>
-
-## Version
-We are adding a new version management to make module installation available through composer, so this is the table for reference: 
-
-Magento Version | Composer prefix 
-----            | ---- 
-2.2.x           | 100.0.0
-2.3.X           | 100.0.0
-
-So if you are in magento 2.2.x or magento 2.3.x to install by composer just execute: `composer require neeta-tm/module-storeinfo:100.0.0`
-
-So if you are in magento 2.2.x or magento 2.3.x to install by composer just execute: composer require neeta-tm/module-storeinfo:100.0.0
-
-BUT in file etc/module.xml version will be the same for all composer version, use setup_version as global version reference.
-
 # Enable Extension
 <b>Stores > Configuration > TechMitraa > StoreInfo</b>
 ![image](https://raw.githubusercontent.com/neeta-tm/images/master/acquirestore/Configuration.PNG)
