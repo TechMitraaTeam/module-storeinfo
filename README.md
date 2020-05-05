@@ -45,7 +45,7 @@ Want to contribute to this extension? The quickest way is to <a href="https://he
 
 # Support
 
-If you encounter any problems or bugs, please <a href="https://github.com/neeta-tm/module-storeinfo/issues">open an issue</a> on GitHub.
+If you encounter any problems or bugs, please <a href="https://github.com/neeta-tm/module-storeinfo/issues">open an issue</a> on GitHub or get connect with us at [TechMitraa Support](https://www.techmitraa.com/contact.html ) .
 
 # Changelog
 Based in setup_version
@@ -53,3 +53,6 @@ Based in setup_version
 <b>v1.0.0</b>
 
 Initial module Released
+
+# Let us know!
+We’d be love to hear from you. You can send us links to your projects where you using our component. Just send an email to mohit@techmitraa.com And do let us know if you have any questions or suggestion regarding our work. We are happy to help you.
